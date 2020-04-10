@@ -23,6 +23,8 @@ Desafio II - Crie um contador de data seria legal também. Eu acho.
 
 Desafio III - O retorno de Jedi, não brincadeira ksopksopkps deixa essa bagassa responsiva, não tenho muito saco pra isso.
 
+---
+
 *edit, na verdade tenho, mas não quero.
 
 Essa linha é só para ter 26 linhas, não gosto de números ímpares. 
