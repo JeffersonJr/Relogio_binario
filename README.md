@@ -15,6 +15,8 @@ Projeto criado apenas para colocar os conhecimentos de Javascript e dar uma dese
 
 6- Dá uma fussada ai no código e personalise o relógio para o seu gosto, o css está bem simples em um aquivo só. :D
 
+---
+
 Desafio I - Crie um fork e adicione um contador de milésiomos, vamos ver se você é o bichão mesmo.
 
 Desafio II - Crie um contador de data seria legal também. Eu acho. 
